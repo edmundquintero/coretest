@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/edmundquintero/coretest/issues"
   },
-  "homepage": "https://github.com/edmundquintero/coretest#readme"
+  "homepage": "https://github.com/edmundquintero/coretest#readme",
+  "dependencies" : {
+    "app1" :  "git://github.com/edmundquintero/apptest1.git",
+    "lodash": "4.16.3"
+  }
 }
